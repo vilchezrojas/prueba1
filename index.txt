@@ -1,2 +1,6 @@
 hola mundo 
 esto fue agregado despues del primer commit
+lista de amigos:
+1. pepe
+2. lucho
+3. maria
