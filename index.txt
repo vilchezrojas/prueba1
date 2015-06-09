@@ -1,4 +1,8 @@
 hola mundo 
 esto fue agregado despues del primer commit
 esto lo agregue en mi primera rama
-1. pancho
+lista de amigos:
+1. pepe
+2. pancho
+3. lucho
+4. maria
